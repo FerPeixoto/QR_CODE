@@ -1,0 +1,63 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+
+    width: 100%;
+    height: 50%;
+    background-color: gainsboro;
+
+}
+
+.container {
+    border-radius: 10px;
+    border: 2px;
+}
+
+.principal {
+    align-items: center;
+
+}
+
+
+.imagem {
+    text-align: center;
+    padding-top: 45px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+
+}
+
+.imagem img {
+    border-radius: 10px;
+
+}
+
+
+
+h1 {
+    text-align: center;
+    padding-top: 15px;
+
+}
+
+.texto-projetos {
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: 21px;
+}
+
+.texto-projetos-codando {
+    text-align: center;
+    padding-bottom: 20px;
+    font-size: 12px;
+
+}
+
+
+.rodape {
+    text-align: center;
+    font-size: 15px;
+}
